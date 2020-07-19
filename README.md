@@ -1,2 +1,2 @@
 # Lerne Python
- Personal Python-learning
+ my Personal Python-learning
